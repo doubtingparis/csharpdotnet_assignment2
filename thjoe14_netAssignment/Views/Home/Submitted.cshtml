@@ -1,0 +1,19 @@
+﻿@model IndexViewModel
+@{
+    ViewData["Title"] = "Submitted";
+}
+<div class="row">
+    <div class="col-md-3">
+        <h2>Submission accepted</h2>
+        
+        <ul>
+            <li>First name: @Model.FirstName</li>
+            <li>Last name: @Model.LastName</li>
+            <li>E-mail: @Model.Email</li>
+            <li>Telephone: @Model.Telephone</li>
+            <li>Birthday: @Model.Birthday</li>
+            <li>Authentication key: @Model.Authentication</li>
+        </ul>
+    </div>
+</div>
+

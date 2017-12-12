@@ -1,0 +1,44 @@
+﻿@model IndexViewModel
+@{
+    ViewData["Title"] = "Submit";
+}
+
+<div class="row">
+    <div class="col-md-3">
+        <h2>Enter the lottery</h2>
+
+        @Html.ValidationSummary()
+
+        <form asp-action="Submitted" method="post">
+            <table>
+                <tr>
+                    <td>First name: </td>
+                    <td><input asp-for="FirstName" /></td>
+                </tr>
+                <tr>
+                    <td>Last name: </td>
+                    <td><input asp-for="LastName" /></td>
+                </tr>
+                <tr>
+                    <td>E-mail: </td>
+                    <td><input asp-for="Email" /></td>
+                </tr>
+                <tr>
+                    <td>Telephone: </td>
+                    <td><input asp-for="Telephone" /></td>
+                </tr>
+                <tr>
+                    <td>Birthday: </td>
+                    <td><input asp-for="Birthday" /></td>
+                </tr>
+                <tr>
+                    <td>Authentication key: </td>
+                    <td><input asp-for="Authentication" /></td>
+                </tr>
+            </table>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+</div>
+
+

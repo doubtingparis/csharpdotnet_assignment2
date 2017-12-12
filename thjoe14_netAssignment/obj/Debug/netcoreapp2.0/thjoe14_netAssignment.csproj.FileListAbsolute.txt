@@ -1,0 +1,11 @@
+C:\Users\tim\Source\Repos\thjoe14_netAssignment\thjoe14_netAssignment\bin\Debug\netcoreapp2.0\thjoe14_netAssignment.deps.json
+C:\Users\tim\Source\Repos\thjoe14_netAssignment\thjoe14_netAssignment\bin\Debug\netcoreapp2.0\thjoe14_netAssignment.runtimeconfig.json
+C:\Users\tim\Source\Repos\thjoe14_netAssignment\thjoe14_netAssignment\bin\Debug\netcoreapp2.0\thjoe14_netAssignment.runtimeconfig.dev.json
+C:\Users\tim\Source\Repos\thjoe14_netAssignment\thjoe14_netAssignment\bin\Debug\netcoreapp2.0\thjoe14_netAssignment.dll
+C:\Users\tim\Source\Repos\thjoe14_netAssignment\thjoe14_netAssignment\bin\Debug\netcoreapp2.0\thjoe14_netAssignment.pdb
+C:\Users\tim\Source\Repos\thjoe14_netAssignment\thjoe14_netAssignment\obj\Debug\netcoreapp2.0\thjoe14_netAssignment.csprojResolveAssemblyReference.cache
+C:\Users\tim\Source\Repos\thjoe14_netAssignment\thjoe14_netAssignment\obj\Debug\netcoreapp2.0\thjoe14_netAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tim\Source\Repos\thjoe14_netAssignment\thjoe14_netAssignment\obj\Debug\netcoreapp2.0\thjoe14_netAssignment.AssemblyInfoInputs.cache
+C:\Users\tim\Source\Repos\thjoe14_netAssignment\thjoe14_netAssignment\obj\Debug\netcoreapp2.0\thjoe14_netAssignment.AssemblyInfo.cs
+C:\Users\tim\Source\Repos\thjoe14_netAssignment\thjoe14_netAssignment\obj\Debug\netcoreapp2.0\thjoe14_netAssignment.dll
+C:\Users\tim\Source\Repos\thjoe14_netAssignment\thjoe14_netAssignment\obj\Debug\netcoreapp2.0\thjoe14_netAssignment.pdb

@@ -1,0 +1,4 @@
+ads,asd,asd@com,asd,asd,4
+asd,asd,asd@com,3231412,23423513,45
+asd,asd,asd@com,asd345345,asd23424,34
+thomas,mørk,doubti@asfjn.dk,14513513,241213,90

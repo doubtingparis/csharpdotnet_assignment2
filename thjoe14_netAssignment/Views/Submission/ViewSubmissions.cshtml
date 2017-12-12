@@ -1,0 +1,36 @@
+﻿@model ViewSubmissionViewModel
+@{
+    ViewData["Title"] = "View Submissions";
+}
+<h2>@ViewData["Title"]</h2>
+
+<div class="row">
+    <div class="col-md-3">
+
+        @*line setup: firstname,lastname,email,telephone,birthday,authkey*@
+        <table style="width:100%;">
+            <thead>
+                <tr>
+                    <th>First name</th>
+                    <th>Last name</th>
+                    <th>E-mail</th>
+                    <th>Telephone</th>
+                    <th>Birthday</th>
+                    <th>Authentication key</th>
+                </tr>
+                @foreach (Submission item in Model.SubmissionsCollection)
+                {
+                    <tr>
+                        <td>@item.firstName</td>
+                        <td>@item.lastName</td>
+                        <td>@item.email</td>
+                        <td>@item.telephone</td>
+                        <td>@item.birthday</td>
+                        <td>@item.authkey</td>
+                    </tr>
+
+                }
+            </thead>
+        </table>
+    </div>
+</div>
