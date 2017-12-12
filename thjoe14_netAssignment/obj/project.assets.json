@@ -13125,11 +13125,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\tim\\Source\\Repos\\thjoe14_netAssignment\\thjoe14_netAssignment\\thjoe14_netAssignment.csproj",
+      "projectUniqueName": "C:\\Users\\tim\\Source\\Repos\\csharpdotnet_assignment2\\thjoe14_netAssignment\\thjoe14_netAssignment.csproj",
       "projectName": "thjoe14_netAssignment",
-      "projectPath": "C:\\Users\\tim\\Source\\Repos\\thjoe14_netAssignment\\thjoe14_netAssignment\\thjoe14_netAssignment.csproj",
+      "projectPath": "C:\\Users\\tim\\Source\\Repos\\csharpdotnet_assignment2\\thjoe14_netAssignment\\thjoe14_netAssignment.csproj",
       "packagesPath": "C:\\Users\\tim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tim\\Source\\Repos\\thjoe14_netAssignment\\thjoe14_netAssignment\\obj\\",
+      "outputPath": "C:\\Users\\tim\\Source\\Repos\\csharpdotnet_assignment2\\thjoe14_netAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

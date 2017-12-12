@@ -41,7 +41,7 @@ namespace thjoe14_netAssignment.Controllers
                 if (svm.SaveSubmission())
                 {
                     //delete used key from file, if above submission was completed
-                    //svm.DeleteAuthenticationKey(svm.Authentication);
+                    svm.DeleteAuthenticationKey(svm.Authentication);
                 }
 
                 return View(svm);
